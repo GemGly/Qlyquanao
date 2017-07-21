@@ -1,0 +1,68 @@
+#page{
+
+    background-color: navajowhite;
+    width: 80%;
+    height: 500px;
+    margin: 0 auto;
+}
+#main{
+    float: left;
+    width: 20%;
+
+}
+#main h1{
+    padding-left: 40px;
+    color: deeppink;
+}
+#content{
+    float: left;
+    padding-left: 73px;
+}
+.nav li{
+    list-style-type: none;
+}
+#content table{
+  border-collapse: collapse;
+}
+#content h2{
+    padding-top: 8px;
+    color: deeppink;
+}
+td, th{
+    border: 1px solid dimgrey;
+    padding: 10px;
+}
+.content-item{
+    width: 300px;
+    padding: 10px;
+}
+.content-item >label, .content-item >input{
+    display: inline-block;
+}
+.content-item >label{
+    width: 15%;
+    padding-right:34px;
+} .content-item >input{
+    width: 70%;
+
+  }
+  #header{
+      border-bottom: 1px solid black;
+  }
+#header h1{
+    color: red;
+    padding: 43px;
+}
+#main1{
+    padding-left: 45px;
+}
+#main1 h1{
+color: #3c63dc;
+}
+.cate{
+    padding-left: 9px;
+    padding-right: 17px;
+}
+#footer p{
+    padding-left: 43px;
+}
